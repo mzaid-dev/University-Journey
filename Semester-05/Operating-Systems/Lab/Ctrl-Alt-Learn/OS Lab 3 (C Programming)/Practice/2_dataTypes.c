@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main(){
     int age = 20;
     float marks = 30.2;
@@ -11,6 +10,6 @@ int main(){
 
     printf("Age : %d\n",age);
     printf("Marks : %f\n",marks);
-    printf("Age : %c\n",grade);
+    printf("Grade : %c\n",grade);
 
 }
